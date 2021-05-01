@@ -4,7 +4,7 @@ sudo apt update
 
 sudo apt upgrade
 
-wget http://repo.mysql.com/mysql-apt-confi...​
+wget http://repo.mysql.com/mysql-apt-config_0.8.13-1_all.deb
 
 sudo dpkg -i mysql-apt-config_0.8.13-1_all.deb
 
