@@ -14,7 +14,7 @@ sudo apt install mysql-server
 
 sudo apt-get build-dep mysql-server
 
-wget https://downloads.mysql.com/archives/...​
+wget https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community_8.0.13-1ubuntu18.10_amd64.deb
 
 sudo dpkg -i mysql-workbench-community_8.0.16-1ubuntu18.04_amd64.deb
 
